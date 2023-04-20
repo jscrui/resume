@@ -42,4 +42,4 @@ I developed different scripts for Wobax.co that allowed the company to reduce th
     
 ### Freelance Web Designer - 2 Years
 ##### HTML & CSS, Bootstrap, Javascript, PHP, MySQL.
->I have developed over 50 websites and webapps, constantly aiming to improve upon each one to ensure they are better, >cleaner, in UX/UI but also in coding practices. 
+I have developed over 50 websites and webapps, constantly aiming to improve upon each one to ensure they are better, >cleaner, in UX/UI but also in coding practices. 
