@@ -2,13 +2,13 @@
 [Email](mailto:juandesndr@gmail.com) | [GitHub](https://github.com/jscrui) | [LinkedIn](https://www.linkedin.com/in/juan-snaider-cruickshank/) | [Telegram](https://t.me/x0jscrui)
 
 ## Languages/Frameworks
-React, Node, Solidity, Javascript, Typescript, Express.js, Python, Tailwind, Bootstrap.
+React, Node, Solidity, Javascript, Typescript, Express.js, NestJs, Python, Tailwind, Bootstrap.
 
 ## Tooling
-Hardhat, Ethers, Slither, Tenderly, NestJs, Postman, Github, Gitlab, Docker.
+Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman.
 
 ## Databases
-MongoDB, SQL, Firebase.
+MongoDB, SQL, Firebase, Sequelize.
 
 ## Infrastructure
 AWS, Netlify, Heroku, EVM, TheGraph,
