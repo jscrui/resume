@@ -16,6 +16,8 @@ AWS, Netlify, Heroku, EVM, TheGraph,
 ### About me
 Since I was born I’ve been fascinated about physics and electronics. I spent my childhood disarming and experimenting with everything that came into my way. Then I received my first computer which became my encyclopedia. I discovered Bitcoin in 2013 and I understood pretty quickly what it was going on, I'm sorry I was too young back then. I decided to learn coding when I saw that it was the way in which logic was mixed with electronics and since then software development has become a passion.
 
+___
+
 ### Strider - Web3/Fullstack - 11 months 
 ##### React + Tailwind/Bootstrap, Node + Express/Nest, Solidity, Ethers, Hardhat, Slither, Tenderly, MongoDB, Netlify, and Heroku.
 >During my time at Strider, I worked as a Web3/Fullstack developer for 10 months. As the first developer/lead >developer on the engineering team, I led the development of various Web3 and Web2 products for third-party clients >(Axie infinity, treasureDAO, Smolverse, QuitCollective). Additionally, I was responsible for building the PoC/MVP of >the Strider core product.
