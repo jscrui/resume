@@ -20,7 +20,7 @@ Since I was born I’ve been fascinated about physics and electronics. I spent m
       
 ### Strider - Web3/Fullstack - 11 months 
 ##### React + Tailwind/Bootstrap, Node + Express/Nest, Solidity, Ethers, Hardhat, Slither, Tenderly, MongoDB, Netlify, and Heroku.
-During my time at Strider, I worked as a Web3/Fullstack developer for 10 months. As the first developer/lead >developer on the engineering team, I led the development of various Web3 and Web2 products for third-party clients >(Axie infinity, treasureDAO, Smolverse, QuitCollective). Additionally, I was responsible for building the PoC/MVP of >the Strider core product.
+During my time at Strider, I worked as a Web3/Fullstack developer for 10 months. As the first developer/lead developer on the engineering team, I led the development of various Web3 and Web2 products for third-party clients (Axie infinity, treasureDAO, Smolverse, QuitCollective). Additionally, I was responsible for building the PoC/MVP of the Strider core product.
 
 ##
 
@@ -36,10 +36,10 @@ the mathematics and logic behind Flash-Loans, Pool, Swaps, Farming, and PoS in g
 
 ### Wobax - Python/VBA/C Automation - 2 Years 
 ##### Python, VBA, C, MongoDB, Java, Node, PHP, Javascript, Boostrap, HTML & CSS.
-I developed different scripts for Wobax.co that allowed the company to reduce the time to analyze data from 2 months >to 1 day and different dashboards to visualize the results in a webapp. 
+I developed different scripts for Wobax.co that allowed the company to reduce the time to analyze data from 2 months to 1 day and different dashboards to visualize the results in a webapp. 
 
 ##
     
 ### Freelance Web Designer - 2 Years
 ##### HTML & CSS, Bootstrap, Javascript, PHP, MySQL.
-I have developed over 50 websites and webapps, constantly aiming to improve upon each one to ensure they are better, >cleaner, in UX/UI but also in coding practices. 
+I have developed over 50 websites and webapps, constantly aiming to improve upon each one to ensure they are better, cleaner, in UX/UI but also in coding practices. 
