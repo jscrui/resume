@@ -2,19 +2,35 @@
 [Email](mailto:juandesndr@gmail.com) | [GitHub](https://github.com/jscrui) | [LinkedIn](https://www.linkedin.com/in/juan-snaider-cruickshank/) | [Telegram](https://t.me/x0jscrui)
 
 ## Languages/Frameworks
-React, Node, Solidity, Javascript, Typescript, Express.js, NestJs, Python, Tailwind, Bootstrap.
+React, Node, Solidity, Typescript, Express.js, NestJs, NextJs w/ TRPC, Javascript, Python, Tailwind, Bootstrap.
 
 ## Tooling
 Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman.
 
 ## Databases
-MongoDB, SQL, Firebase, Sequelize.
+Prisma, MongoDB, SQL, Firebase, Sequelize.
 
 ## Infrastructure
-AWS, Netlify, Heroku, EVM, TheGraph,
+OpenAI, AWS, Netlify, Vercel, Heroku, EVM, TheGraph.
 
 ## About me
 Since I was born I’ve been fascinated about physics and electronics. I spent my childhood disarming and experimenting with everything that came into my way. Then I received my first computer which became my encyclopedia. I discovered Bitcoin in 2013 and I understood pretty quickly what it was going on, I'm sorry I was too young back then. I decided to learn coding when I saw that it was the way in which logic was mixed with electronics and since then software development has become a passion.  
+
+##
+      
+### RatherLabs - Web3/Fullstack - 8 months 
+##### React + Next13 + Prisma + TRPC | Solidity + Ethers + Hardhat + Slither + Tenderly | Netlify, Vercel, AWS Lambda.
+During my time at Ratherlabs, I had been working on several exciting projects that showcased my skills and expertise. Here's a closer look at my contributions:
+
+**Transcribeme** I was part of the team that developed Transcribeme, an AI service that transformed audio messages from WhatsApp into written text. We leveraged OpenAI's technology and integrated GPT for accurate and efficient transcription. This project aimed to make communication easier and more accessible by enabling users to read their audio messages.
+
+**Huntify** Using the power of OpenAI and Next.js + TRPC, I created a platform that generated tailored interview questions and evaluated candidates. This not only streamlined the hiring process but also provided valuable feedback to candidates, reducing interview times significantly.
+
+**Micropets** I worked solo on migrating proxy contracts to new ownership and introduced staking mechanisms. Additionally, created new NFT collections adhering to the ERC721 standard with a random opening chance feature, enhancing user engagement. On the frontend, I made UI/UX improvements and facilitated minting from both BSC and Ethereum chains, expanding our multichain capabilities.
+
+**Technical Reviewer** In addition to my software developer work, I took on the role of a technical reviewer. This involved conducting technical interviews for prospective candidates, evaluating their skills and assessing their suitability for the positions within the company.
+
+My time at Ratherlabs was marked by a commitment to innovation and excellence, and I'm proud of the contributions I made to these projects and the growth of the team.
 
 ##
       
