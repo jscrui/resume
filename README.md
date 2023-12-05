@@ -18,7 +18,7 @@ Since I was born I’ve been fascinated about physics and electronics. I spent m
 
 ##
       
-### RatherLabs - Web3/Fullstack - 8 months 
+### RatherLabs - Web3/Fullstack - 8 months (Actually)
 ##### React + Next13 + Prisma + TRPC | Solidity + Ethers + Hardhat + Slither + Tenderly | Netlify, Vercel, AWS Lambda.
 During my time at Ratherlabs, I had been working on several exciting projects that showcased my skills and expertise. Here's a closer look at my contributions:
 
