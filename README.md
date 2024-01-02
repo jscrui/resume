@@ -2,7 +2,9 @@
 [Email](mailto:juandesndr@gmail.com) | [GitHub](https://github.com/jscrui) | [LinkedIn](https://www.linkedin.com/in/juan-snaider-cruickshank/) | [Telegram](https://t.me/x0jscrui)
 
 ## Languages/Frameworks
-Solidity, React, Node, Typescript, Javascript, Python, VBA, C, Java, PHP, HTML & CSS. | ExpressJs, NestJs, NextJs, Tailwind, Bootstrap, TRPC, Sequelize.
+Solidity, React, Node, Typescript, Javascript, Python, VBA, C, Java, PHP, HTML & CSS.
+
+ExpressJs, NestJs, NextJs, Tailwind, Bootstrap, TRPC, Sequelize.
 
 ## Tooling
 Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman and more.
