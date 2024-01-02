@@ -2,21 +2,13 @@
 [Email](mailto:juandesndr@gmail.com) | [GitHub](https://github.com/jscrui) | [LinkedIn](https://www.linkedin.com/in/juan-snaider-cruickshank/) | [Telegram](https://t.me/x0jscrui)
 
 ## Languages/Frameworks
-**Languages:** Solidity, React, Node, Typescript, Javascript, Python, VBA, C, Java, PHP, HTML & CSS.
-
-**Frameworks:** ExpressJs, NestJs, NextJs, Tailwind, Bootstrap, TRPC, Sequelize.
-
-**Tooling:** Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman and more.
-
-**Databases:** Prisma, MongoDB, SQL, Firebase, MySQL
-
-**Infraestructure:** OpenAI, AWS, Netlify, Vercel, Heroku, EVM, TheGraph
+Solidity, React, Node, Typescript, Javascript, Python, VBA, C, Java, PHP, HTML & CSS. | ExpressJs, NestJs, NextJs, Tailwind, Bootstrap, TRPC, Sequelize.
 
 ## Tooling
-Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman.
+Hardhat, Ethers, Slither, Tenderly, Docker, Github, Gitlab, Postman and more.
 
 ## Databases
-Prisma, MongoDB, SQL, Firebase, Sequelize.
+Prisma, MongoDB, SQL, Firebase, MySQL
 
 ## Infrastructure
 OpenAI, AWS, Netlify, Vercel, Heroku, EVM, TheGraph.
