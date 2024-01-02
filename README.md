@@ -15,6 +15,9 @@ Prisma, MongoDB, SQL, Firebase, MySQL
 ## Infrastructure
 OpenAI, AWS, Netlify, Vercel, Heroku, EVM, TheGraph.
 
+
+
+
 ## About me
 Since I was born I’ve been fascinated about physics and electronics. I spent my childhood disarming and experimenting with everything that came into my way. Then I received my first computer which became my encyclopedia. I discovered Bitcoin in 2013 and I understood pretty quickly what it was going on, I'm sorry I was too young back then. I decided to learn coding when I saw that it was the way in which logic was mixed with electronics and since then software development has become a passion.  
 
